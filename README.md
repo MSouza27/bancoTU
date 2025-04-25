@@ -81,7 +81,7 @@ Projeto desenvolvido com carinho diretamente de **Recife - PE**, de olho nas opo
 
 ## 🤝 Contato
 
-📧 Seu Nome – [magnoapt@gmail.com]  
+📧 E-mail – [magnoapt@gmail.com]  
 💼 LinkedIn – [www.linkedin.com/in/magno-souza-dos-santos]
 
 ---
